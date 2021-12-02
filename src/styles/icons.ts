@@ -1,0 +1,10 @@
+export { FaGlobe } from "react-icons/fa";
+export { FaRegNewspaper } from "react-icons/fa";
+export { FaMusic } from "react-icons/fa";
+export { FaSignal } from "react-icons/fa";
+export { FiMessageSquare } from "react-icons/fi";
+export { MdOutlineDashboard } from "react-icons/md";
+export { MdOutlineNotificationsNone } from "react-icons/md";
+export { MdOutlineAccountCircle } from "react-icons/md";
+export { BsGear } from "react-icons/bs";
+export { BiSearch } from "react-icons/bi";
